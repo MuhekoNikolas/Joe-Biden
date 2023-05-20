@@ -1,0 +1,29 @@
+
+{
+  "commands":{
+    1:{
+      "name": "**> 🔨ban** `ban user [-ban {ctx.author}]`",
+      "value": "**> {locktext}ctc**  `Create a text channel [-ctc hangout`"
+    },
+
+    2:{
+      "name": "**> {locktext}cpt** `Create a private text channel [-cpt private_hangout`",
+      "value": "> **🎤cvc**\n`Create a voice channel [-cvc voicechannel1]`"
+    },
+
+    3:{
+      "name": "> **🎤cpv**\n `Create a private voice channel [-cpv private_voicechannel1]`",
+      "value": "**> <:win11_warning_icon:921692510986833931>warns**  `See someone's warn count [-warns {ctx.author}]`"
+    },
+
+    4:{
+      "name":
+      "value":
+    }
+
+    
+
+    
+  }
+  
+}
